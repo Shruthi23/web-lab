@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="texts.css"?>
+
+<students>
+<student>
+<USN>USN:4VV15CS103</USN>
+<name>NAME:Shruthi</name>
+<college>COLLEGE:VVCE</college>
+<branch>Branch:CSE</branch>
+<yr>year:2018</yr>
+<email>Email:abc@gmail.com</email>
+</student>
+
+
+<student>
+<USN>USN:4VV15CS092</USN>
+<name>NAME:Rachitha</name>
+<college>COLLEGE:VVCE</college>
+<branch>Branch:CSE</branch>
+<yr>year:2018</yr>
+<email>Email:xyz@gmail.com</email>
+</student>
+
+<student>
+<USN>USN:4VV15CS087</USN>
+<name>NAME:Rakshita</name>
+<college>COLLEGE:VVCE</college>
+<branch>Branch:CSE</branch>
+<yr>year:2018</yr>
+<email>Email:pqr@gmail.com</email>
+</student>
+</students>
